@@ -1,0 +1,19 @@
+.button-fetch {
+  width: 60%;
+  margin: auto;
+  padding: 2em;
+}
+#tweet {
+  margin-left: 8.8em;
+}
+.news {
+  height: 200px;
+}
+.button-fetch {
+  position: absolute;
+  top: 80vh;
+  left: 35%;
+}
+.author {
+  font-style: italic;
+}
